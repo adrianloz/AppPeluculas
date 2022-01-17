@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppPeliculas</string>
+    <string name="str_playing_now">Playing Now</string>
+    <string name="str_most_popular">Most Popular</string>
+    <string name="genres">Genres:</string>
+    <string name="overview">Overview :</string>
+    <string name="tv_shows">Tv Shows</string>
+    <string name="bookmark_this">BookMark This</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
